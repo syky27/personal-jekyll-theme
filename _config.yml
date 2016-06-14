@@ -33,13 +33,13 @@ author: "Tomas Sykora"
 title: "[ Tomas Sykora ]"
 description: "Hi, my name is Tomas Sykora, I am mostly iOS developer and Univesity teacher of 3D Printing at [CTU FIT](http://fit.cvut.cz/en), born and raised in Czech republic in middle of moving to Vancouver BC. "
 keywords: "Tomas Sykora, syky27, 3DPrinting, AJTY, iOS, developer,"
-favicon: "/img/cell-phone.png"
+# favicon: "/img/cell-phone.png"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/cell-phone.png"
+# black-favicon: "/img/cell-phone.png"
 
 background-img: "../img/bg.jpeg"
 
