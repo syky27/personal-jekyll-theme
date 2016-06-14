@@ -111,16 +111,16 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/logos/quanti_logo.jpg"
+  - image: "/img/logos/quanti_logo.png"
     date: "September 2014 - Today"
     description: "[QUANTI](quanti.cz)"
-  - image: "/img/logos/pematon_logo.jpg"
+  - image: "/img/logos/pematon_logo.pnf"
     date: "July 2013 - July 2014"
     description: "[PEMATON](pematon.com)"
-  - image: "/img/logos/flowknight_logo.jpg"
+  - image: "/img/logos/flowknight_logo.png"
     date: "September 2013 - June 2013"
     description: "[FlowKnight](flowknight.com)"
-  - image: "/img/logos/cvut_logo.jpg"
+  - image: "/img/logos/cvut_logo.png"
     date: "September 2012 - Today"
     description: "[Czech Technical Univerity Faculty of Information Technology](fit.cvut.cz)"
   - image: "http://storage.googleapis.com/staycations/imgs/cincinnati-reds.jpg"
