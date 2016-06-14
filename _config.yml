@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "let name = <q>Tomas Sykora</q>"
   - text: "let nickName = <q>Syky</q>"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "https://www.gravatar.com/avatar/8057a03d7cf4cbf0bc5f50ba03b5f0eb?s=200"
 
 ##############################
 # Color the browser elements #
