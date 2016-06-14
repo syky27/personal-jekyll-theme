@@ -119,7 +119,7 @@ events:
     description: "Started coding"
   - image: "http://storage.googleapis.com/staycations/imgs/cincinnati-reds.jpg"
     date: "July 2008"
-    description: "Signed by Cincinnati Reds"
+    description: "[Signed by Cincinnati Reds](http://cincinnati.reds.mlb.com/index.jsp?c_id=cin)"
 
 # First image of the Timeline
 
