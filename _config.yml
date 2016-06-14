@@ -57,6 +57,8 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Always deliver more than expected!"
   - text: "Work hard."
+  - text: "let name = \"Tomas Sykora\""
+  - text: "let nickName = \"Syky\""
 
 me-img: "/img/jetpacktocat.png"
 
