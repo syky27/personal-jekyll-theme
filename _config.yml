@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Always deliver more than expected!"
   - text: "Work hard."
   - text: "let name = <q>Tomas Sykora</q>"
-  - text: "let nickName = <q>Syky</q>'
+  - text: "let nickName = <q>Syky</q>"
 
 me-img: "/img/jetpacktocat.png"
 
