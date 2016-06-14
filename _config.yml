@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Tomas Sykora"
-title: "{ Tomas Sykora }"
+title: "[ Tomas Sykora ]"
 description: "Hi, my name is Tomas Sykora, I am mostly iOS developer and Univesity teacher of 3D Printing at [CTU FIT](http://fit.cvut.cz/en), born and raised in Czech republic in middle of moving to Vancouver BC. "
 keywords: "Tomas Sykora, syky27, 3DPrinting, AJTY, iOS, developer,"
 favicon: "/img/favicon.ico"
@@ -57,8 +57,8 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Always deliver more than expected!"
   - text: "Work hard."
-  - text: "let name = \"Tomas Sykora\""
-  - text: "let nickName = \"Syky\""
+  - text: 'let name = \"Tomas Sykora\"'
+  - text: 'let nickName = \"Syky\"'
 
 me-img: "/img/jetpacktocat.png"
 
