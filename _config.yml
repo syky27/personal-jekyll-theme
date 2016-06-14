@@ -115,17 +115,17 @@ events:
     date: "September 2014 - Today"
     description: "[QUANTI](quanti.cz)"
   - image: "/img/logos/pematon_logo.png"
-    date: "July 2013 - July 2014"
+    date: "July 2014 - July 2015"
     description: "[PEMATON](pematon.com)"
   - image: "/img/logos/flowknight_logo.png"
-    date: "September 2013 - June 2013"
+    date: "September 2013 - June 2014"
+    description: "CEO of [AJTY](ajty.ca)"
+  - image: "http://ajty.cz/img/logo_black.png"
+    date: "September 2013 - June 2014"
     description: "[FlowKnight](flowknight.com)"
   - image: "https://raw.githubusercontent.com/3DprintFIT/artwork/master/logo/3dprintlab-logo.png"
     date: "October 2012 - Today"
     description: "[3D Print Laboratory on Faculty](3dprint.fit.cvut.cz)"
-  - image: "/img/logos/cvut_logo.png"
-    date: "September 2012 - Today"
-    description: "[Czech Technical Univerity Faculty of Information Technology](fit.cvut.cz)"
   - image: "/img/logos/cvut_logo.png"
     date: "September 2012 - Today"
     description: "[Czech Technical Univerity Faculty of Information Technology](fit.cvut.cz)"
@@ -135,7 +135,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "https://www.gravatar.com/avatar/8057a03d7cf4cbf0bc5f50ba03b5f0eb?s=200"
 
 ###########
 # Contact #
